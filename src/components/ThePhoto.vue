@@ -4,9 +4,9 @@ import ImageFrame from './ImageFrame.vue'
 
 <template>
   <div class="main">
-    <ImageFrame img="/img/DSC06569.JPG" />
-    <ImageFrame img="/img/DSC07281.JPG" />
-    <ImageFrame img="/img/DSC00454.JPG" />
+    <ImageFrame img="/pages/img/DSC06569.JPG" />
+    <ImageFrame img="/pages/img/DSC07281.JPG" />
+    <ImageFrame img="/pages/img/DSC00454.JPG" />
   </div>
 </template>
 
